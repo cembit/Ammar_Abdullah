@@ -1,4 +1,3 @@
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 # 👋 Hi, I'm Ammar Abdullah 🚀
 
 
@@ -40,6 +39,10 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cembit&theme=radical)
 
 ---
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cembit&theme=react-dark)
 
 ## 📫 Contact
 
