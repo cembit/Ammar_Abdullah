@@ -61,14 +61,6 @@
 
 ---
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cembit&theme=radical"/>
-</p>
-
----
-
 ## 🧠 Featured Projects
 
 - 🥚 Raspberry Pi Based Egg Quality Inspection System
