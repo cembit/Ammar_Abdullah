@@ -1,10 +1,10 @@
+
+<img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress;Python+Developer;Machine+Learning+Learner;LeetCode+Problem+Solver" />
+
+
 # 👋 Hi, I'm Ammar Abdullah 🚀
 
 <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Engineer+in+progress;Python+Developer;LeetCode+Solver" />
-
-🤖 AI & Machine Learning Engineer (Aspiring)  
-🐍 Python Developer  
-
 
 ---
 
