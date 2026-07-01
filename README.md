@@ -1,51 +1,99 @@
-# 👋 Hi, I'm Ammar Abdullah 🚀
-## 📊 My Coding Activity
+<!-- HEADER GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+</p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cembit&theme=tokyo-night)
+<h1 align="center">👋 Hi, I'm Ammar Abdullah 🤖</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Engineer+in+progress;Python+Developer;LeetCode+Solver" />
-
----
-
-## ✨ About Me
-
-🚀 I love building intelligent systems  
-🤖 Focused on AI, Computer Vision & Machine Learning  
-🧠 Strong interest in Data Structures & Algorithms  
-📊 Always learning and improving  
+<p align="center">
+  🧠 AI Engineer | 🤖 Machine Learning | 👁️ Computer Vision | 🐍 Python Developer
+</p>
 
 ---
 
-## ⚡ What I'm Doing Now
+## ⚡ About Me
 
-- 🤖 Building AI & Computer Vision projects  
-- 🧩 Solving LeetCode problems daily  
-- 📊 Working on Data Analysis & ML models  
-- 🐍 Writing clean Python code  
-
----
-
-## 🧠 Tech Stack
-
-🐍 Python  
-🤖 Machine Learning  
-👁️ OpenCV  
-📊 Pandas / NumPy  
-🧩 Data Structures & Algorithms  
-🗄️ SQL  
+- 🎓 Computer Engineering Graduate (Hitit University)
+- 🤖 AI / ML / Deep Learning Engineer
+- 👁️ Computer Vision & Image Processing (YOLO, OpenCV, TensorFlow, PyTorch)
+- 📊 Data Analysis & SQL Enthusiast
+- 🚀 Passionate about building real-world AI systems
 
 ---
 
-## 🔥 Streak
+## 🔥 Current Focus
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cembit&theme=radical)
+- 🧠 Deep Learning & Neural Networks
+- 👁️ Real-Time Object Detection (YOLO)
+- 📦 Edge AI Systems (Raspberry Pi projects)
+- 🌐 AI + Web Integration (Flask / Streamlit)
+- 📊 Data-driven AI Applications
 
 ---
 
-## 📈 Contribution Graph
+## 🛠️ Tech Stack
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cembit&theme=react-dark)
+<p align="center">
 
-## 📫 Contact
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-💻 GitHub: https://github.com/cembit
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cembit&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cembit&layout=compact&theme=radical" width="48%"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cembit&theme=tokyo-night"/>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cembit&theme=radical"/>
+</p>
+
+---
+
+## 🧠 Featured Projects
+
+- 🥚 Raspberry Pi Based Egg Quality Inspection System
+- 👁️ Real-Time Object Detection with YOLO
+- 📊 Data Analysis & ML Projects
+- 🤖 AI Model Training Pipelines
+
+---
+
+## 🌍 Goals
+
+- 🚀 Become a top-tier AI Engineer
+- 🧠 Build production-level AI systems
+- 🌐 Work on global AI/ML projects
+- 💡 Create impactful real-world solutions
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: www.linkedin.com/in/ammarabdullahai
+- GitHub: https://github.com/cembit
+
+---
+
+<p align="center">
+  🚀 "Building AI systems that solve real-world problems"
+</p>
