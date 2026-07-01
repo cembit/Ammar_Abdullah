@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Ammar Abdullah 🚀
 
+<img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Engineer+in+progress;Python+Developer;LeetCode+Solver" />
+
 🤖 AI & Machine Learning Engineer (Aspiring)  
 🐍 Python Developer  
-🧠 Problem Solver | LeetCode Enthusiast  
+
 
 ---
 
@@ -32,31 +34,6 @@
 📊 Pandas / NumPy  
 🧩 Data Structures & Algorithms  
 🗄️ SQL  
-
----
-
-## 📌 Featured Projects
-
-🤖 Face Recognition System  
-👁️ Object Detection (YOLO / OpenCV)  
-📊 Data Analysis Projects  
-🧩 LeetCode Solutions  
-
----
-
-## 🎯 Goals
-
-🚀 Become an AI Engineer  
-🧠 Master Algorithms & System Design  
-🤖 Build real-world AI products  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cembit&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cembit&layout=compact)
 
 ---
 
