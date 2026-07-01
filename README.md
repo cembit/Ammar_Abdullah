@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Ammar Abdullah 🚀
+## 📊 My Coding Activity
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cembit&theme=tokyo-night)
 
 <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Engineer+in+progress;Python+Developer;LeetCode+Solver" />
 
